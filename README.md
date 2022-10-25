@@ -77,4 +77,24 @@
  <img src ="https://user-images.githubusercontent.com/102512612/197699217-191a6eff-041d-4d23-83b5-07a59cdc5ecf.png"/>
 
  <img src ="https://user-images.githubusercontent.com/102512612/197699337-71e643a3-9825-4de7-ac5f-b1345a1ed6c2.png"/>
+
+### 7) 덧글 
+
+ - 1:1 문의 글 상세 보기 화면에서 덧글을 등록할 수 있다
+ - 본인의 1:1 문의 글에 덧글을 다는 경우 해당 덧글을 삭제할 수 있는 삭제 버튼이 표시된다
+ - 그렇지 않다면 삭제버튼은 표시되지 않는다
+
+ <img src ="https://user-images.githubusercontent.com/102512612/197700760-77ebbdcf-4519-4f48-ac4b-9b0120502b39.png"/>
+
+ - 덧글 삭제 버튼을 누르게되면 해당 덧글이 삭제된다
+
+ <img src ="https://user-images.githubusercontent.com/102512612/197701172-8aed0664-5bd3-4936-9bae-f92c29e841a9.png"/>
+
+### 8) 1:1 문의 글 삭제하기
+
+ - 1:1 문의 글 상세 보기 화면에서 해당 글을 삭제하기 버튼을 누르게되면 팝업 창이 뜨고 확인을 누르게 되면  등록 되있던 덧글과 함께 DB에서 삭제된다
+
+ <img src ="https://user-images.githubusercontent.com/102512612/197701627-4474014f-5b92-4faa-a8c8-fad86ebfb8f3.png"/>
  
+ <img src ="https://user-images.githubusercontent.com/102512612/197701824-00364e53-e546-45e4-a438-21e93e5b2eb2.png"/>
+
